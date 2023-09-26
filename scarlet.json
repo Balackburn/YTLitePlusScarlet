@@ -1,6 +1,6 @@
 {
   "META": {
-    "repoName": "YTLitePlus",
+    "repoName": "YTLitePlus Repo",
     "repoIcon": "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/Youtube_logo-512.png"
   },
   "Tweaked": [
@@ -24,7 +24,8 @@
       ],
       "appstore": "com.google.ios.youtube",
       "contact": {
-        "web": "https://github.com/Balackburn/YTLitePlus"
+        "web": "https://github.com/Balackburn/YTLitePlus",
+        "github": "https://github.com/Balackburn"
       }
       
     }
