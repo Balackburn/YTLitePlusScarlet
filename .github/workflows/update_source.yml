@@ -2,6 +2,8 @@ name: Update scarlet.json with latest release
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron:  '0 0 * * *'
   repository_dispatch:
     types: [update-altstore-source-trigger]
 
